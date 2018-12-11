@@ -1,15 +1,14 @@
 # Site settings
-title: 
+author: Kachel Wittig
+title: Kachel's Coding Blurg
 header-img: img/home-bg.png
 email: kjwittig@gmail.com
-copyright_name: scrptktty
+copyright_name: Kachel Wittig
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Code code code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: scrptktty
 github_username:  scrptktty
-learn_profile: scrptktty
-email_username: kjwittig@gmail.com
 
 # Build settings
 markdown: kramdown
