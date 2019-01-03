@@ -1,46 +1,46 @@
-KACHEL WITTIG                                                  (Click here for PDF resume)
-=============                                                  (Click here for non-tech resume)
+KACHEL WITTIG                        (View as PDF: kachel.withak.fyi/resume.pdf)
+=============                  (Non-tech resume: kachel.withak.fyi/non-tech.pdf)
 
 Cell:    +1 317 682.7996
 E-mail:  kachel@withak.fyi
 Twitter: twitter.com/scrptktty
 GitHub:  github.com/scrptktty
 
-The best part of my non-tech positions was creating more effective spreadsheet reports by scouring
-excel docs to construct the formulae. It did not take long to dawn on me that I was programming
-(Excel is Turing complete!), and I decided to transition into an engineering role.
+The best part of my non-tech positions was always creating more effective
+spreadsheet reports by scouring the Excel formula documentation. It did not take
+long to dawn on me that I was programming (Excel is Turing complete!), and I
+decided it was time to transition into a software engineering role.
 
-For the past year, I've been enrolled in Flatiron School's full-stack web development program.
-Along the way, I have been the recipient of grants and scholarships to attend programming
-conferences.
+For the past year, I've been enrolled in Flatiron School's full-stack web
+development program. Along the way, I have been the recipient of several grants
+and scholarships to attend programming conferences.
 
 
 PROJECT EXPERIENCE
 ------------------
-
-### [StarkTrekCLI](https://github.com/scrptktty/StarTrekCLI) - A CLI tool for Star Trek info
+### StarkTrekCLI - CLI tool for querying Star Trek info
 - Scraper gem developed using Ruby and Nokogiri
 - Designed sequential and multi-staged interface for the command line
 
-### [Hair of the Dog](https://github.com/scrptktty/hair-of-the-dog) - Cocktail recipe app
+### Hair of the Dog - Cocktail recipe app
 - RESTful app developed with Rails and Bootstrap
-- Implemented Oauth for user authentication
+- Implemented OAuth for user authentication
 
-### [Blinking Lights](https://github.com/scrptktty/blinky-lights) - Steampunk Arm
-- Wrote firmware for **neopixel number** on the Particle micro-controller
+### Blinking Lights - Steampunk Arm firmware
+- Wrote control code for WS2812B on the Particle micro-controller
 - Learned enough C++ to achieve goal
 
-### [Napkin](https://github.com/scrptktty/napkin) - Million dollar idea blogging app
+### Napkin - Million dollar idea blogging app
 - RESTful app developed with Ruby and Sinatra
-- Explored, exploited, and prevented vulnerabilities with XSS and SQL injections
+- Explored, exploited, and fixed vulnerabilities from XSS and SQL injections
 
 SKILLS
 ------
-
 - Human Languages: French, Spanish, Mandarin
 - Computer Languages and Frameworks: Ruby, RSpec, Rails, Capybara, JavaScript,
-  Mocha, React, HTML & CSS, POSIX sh / Bash
+    React, HTML & CSS, Bash
+- Database: SQL, Excel
 - Awards: Women Who Code Bootcamp Scholarship, 2018
-Project Alloy Grantee 2017, 2018
-RubyConf Scholar, 2018
+          Project Alloy Grantee 2017, 2018
+          RubyConf Scholar, 2018
 - License: Technician-class radio operator (KD9KUU)
